@@ -6,8 +6,8 @@
 ====
 
 
-Microsoft Office
-> 微软出品的文档处理软件，有win和mac版
+Microsoft Office  
+微软出品的文档处理软件，有win和mac版
 
 
 [LibreOffice][1]         
@@ -16,7 +16,7 @@ Microsoft Office
 PDFshrink           
 PDF文档压缩软件，有几种压缩规格选择
 
-[PDFCompressor][2]
+[PDFCompressor][2]  
 PDF压缩软件，能压到1/5
 
 PDFBinder       
