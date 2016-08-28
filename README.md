@@ -201,8 +201,10 @@ hosts
 android手机root，刷第三方recovery之后，再刷如对应系统版本的谷歌服务框架，然后就能正常使用google play等谷歌服务了
 
 [Matlab][42]
+数学建模软件
 
 [SPSS][43]
+数理统计软件
 
 [Unity3D][44]
 一款3D游戏开发引擎
