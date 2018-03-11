@@ -2,28 +2,7 @@
 整理一些个人常用的win软件
 
 ***部分软件没有带下载链接，发挥你们的动手能力吧***
-日常办公
-====
 
-
-Microsoft Office  
-微软出品的文档处理软件，有win和mac版
-
-
-[LibreOffice][1]         
-开源文档处理软件，3种系统都有
-
-PDFshrink           
-PDF文档压缩软件，有几种压缩规格选择
-
-[PDFCompressor][2]  
-PDF压缩软件，能压到1/5
-
-PDFBinder       
-PDF文档合并工具
-
-FreePDFSplit    
-PDF文档切割工具
 
 软件开发
 ====
@@ -87,6 +66,12 @@ MS SQL Server
 
 EasyEclipseForPHP
 Eclipse下的PHP IDE
+
+JSON Formatter
+Chrome浏览器插件，将返回的数据转化成json格式，方便接口调试
+
+[Postman][46]
+接口调试工具，可以方便地发出各种get，post请求
 
 
 设计软件
@@ -190,6 +175,28 @@ gif动画录制软件，作为软件开发的，完成一个功能后，录制�
 [TeamViewer][40]
 强大的远程协作应用，多平台，四大桌面系统与四大手机系统之间都能远程了
 
+日常办公
+====
+
+
+Microsoft Office  
+微软出品的文档处理软件，有win和mac版
+
+
+[LibreOffice][1]         
+开源文档处理软件，3种系统都有
+
+PDFshrink           
+PDF文档压缩软件，有几种压缩规格选择
+
+[PDFCompressor][2]  
+PDF压缩软件，能压到1/5
+
+PDFBinder       
+PDF文档合并工具
+
+FreePDFSplit    
+PDF文档切割工具
 
 其他个人收藏
 ======
@@ -258,3 +265,4 @@ android手机root，刷第三方recovery之后，再刷如对应系统版本的�
   [43]: http://www.ibm.com/analytics/us/en/technology/spss/
   [44]: https://unity3d.com/cn
   [45]: https://www.unrealengine.com/zh-CN/what-is-unreal-engine-4
+  [46]: https://www.getpostman.com/
