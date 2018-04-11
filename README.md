@@ -61,6 +61,10 @@ SQLite 数据库图形操作软件，让你更直观的看到与操作数据库
 MS SQL Server
 微软出品的数据库软件
 
+数据库设计工具
+workbench
+power designer
+
 [Zend Studio][17]
 一款php开发IDE
 
