@@ -13,14 +13,18 @@ google旗下的android IDE，强烈推荐（国内可在此下载http://www.andr
 [Eclipse][4]
 强大的android IDE
 
-[IntelliJ IDEA][5]
-jetbrains旗下，Android Studio的原型，也是强大的IDE
+MyEclipse
+实质上是Eclipse的众多插件集合体，会更方便
+
 
 [Visual Studio][6]
 微软旗下的C# C++等IDE，桌面开发必备
 
 [Xcode][7]
 ios软件开发IDE
+
+[IntelliJ IDEA][5]
+jetbrains旗下，Android Studio的原型，也是强大的IDE
 
 [JetBrains PyCharm][8]
 jetbrains旗下的python开发 IDE，python开发必备
@@ -30,6 +34,9 @@ jetbrains旗下的php开发 IDE，php开发必备
 
 [JetBrains WebStorm][10]
 jetbrains旗下的前端开发 IDE，前端开发必备
+
+JetBrains CLion
+jetbrains旗下的C/C++开发 IDE
 
 [HBuilder][11]
 国内的前端开发IDE，实时预览很方便，推荐
@@ -46,6 +53,8 @@ Windows自带的网站布置工具，win系统用这个布置网站也很方便
 Beyond Compare
 文档对比软件，轻松看出两文档的差异所在
 
+
+## 数据库相关
 [MySql][13]
 免费的数据库软件
 
@@ -62,8 +71,8 @@ MS SQL Server
 微软出品的数据库软件
 
 数据库设计工具
-workbench
-power designer
+- workbench
+- power designer
 
 [Zend Studio][17]
 一款php开发IDE
@@ -78,8 +87,8 @@ Chrome浏览器插件，将返回的数据转化成json格式，方便接口调�
 接口调试工具，可以方便地发出各种get，post请求
 
 
-设计软件
-====
+## 设计相关软件
+
 
 PhotoShop
 Abode下强大的图形处理软件
@@ -94,13 +103,16 @@ Autodesk Maya
 被adobe收购的3d图像处理软件，曾经与3dsmax打的不可开交
 
 [XMind][18]
-思维导图软件，是个发散思维，总结想法的好帮手
+思维导图软件，是个发散思维，总结想法的好帮手，有免费版
 
 [MindManager][19]
-思维导图软件
+思维导图软件，收费软件，无免费版
 
 [Visio][20]
 微软旗下的制图软件，画流程图很好用
+
+[StartUML]
+UML图设计工具
 
 [Axure RP][21]
 产品设计必备，画产品原型的软件
@@ -140,20 +152,24 @@ adobe旗下的开源编辑器,工程在github上
 [vim][29]
 同上，有中文版
 
-提高生产力的工具
-==========
+
+## 提高生产力的工具
+
 
 [印象笔记][30]
 生活记录，高效协作，多平台同步
 
 [有道云笔记][31]
-同上，二选一即可
+同上，二选一即可， 有道云支持markdown，而印象笔记UI更好看
 
 [Foxmail][32]
 工作收发邮件就靠它了，微信之父张小龙的作品
 
 [Project][33]
 微软旗下的项目进度管理软件，比用excel要功能丰富多了
+
+禅道
+国产的项目管理软件，作为纯测试记录软件也很不错
 
 [Fiddler][34]
 常用的http抓包工具
@@ -179,6 +195,15 @@ gif动画录制软件，作为软件开发的，完成一个功能后，录制�
 [TeamViewer][40]
 强大的远程协作应用，多平台，四大桌面系统与四大手机系统之间都能远程了
 
+Everything
+全局搜索软件，可以搜索你电脑任何文件
+
+VMWare
+虚拟机软件，比较大型
+
+Virual Box
+同虚拟机软件，但比较轻巧
+
 日常办公
 ====
 
@@ -202,7 +227,7 @@ PDF文档合并工具
 FreePDFSplit    
 PDF文档切割工具
 
-其他个人收藏
+其他
 ======
 
 hosts 
